@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GopalGM
-- 👀 I’m interested in ...  Data Science, Machine Learning, Deep Learning, AI
-- 🌱 I’m currently learning ...Data Science , Machine Learning
-- 💞️ I’m looking to collaborate on ...Data Science, Machine Learning
+- 👀 I’m interested in ...  Product Management, Data Science, Machine Learning, Deep Learning, AI
+- 🌱 I’m currently learning ...Product Managment, Data Science , Machine Learning
+- 💞️ I’m looking to collaborate on ...Product Management, Data Science, Machine Learning
 - 📫 How to reach me ...gpgmlai@gmail.com
 
 <!---
